@@ -2,6 +2,7 @@
 #define _TINYGPS_PLUS_PORT_H_
 
 #include <stdint.h>
+#include <math.h>
 
 // https://forum.arduino.cc/index.php?topic=46379.0
 #define PI 3.1415926535897932384626433832795
